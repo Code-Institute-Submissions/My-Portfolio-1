@@ -48,7 +48,11 @@
 }
 
 /*------------------------------Sections */
-
+.container-section {
+    text-align: center;
+    margin: 0%;
+    margin-bottom: 20px;
+}
 
 section > i {
     font-size: 90px;
